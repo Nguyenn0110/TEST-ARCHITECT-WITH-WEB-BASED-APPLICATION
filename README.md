@@ -27,6 +27,6 @@ PREPARE FOR REQUIREMENTS:
 - Download TestArchitect: "https://drive.google.com/file/d/1d-0W07PZwH0DqLRXJav0NkOIKlE0VsG5/view?usp=drive_link"
 - Download License Server: "https://drive.google.com/file/d/1GerEU2uUCmsoqc5m1ZLi2ieAoGA3IUEY/view?usp=drive_link"
 - Sign up your account: "https://testarchitect.com/"
-+ DO NOT input Vietnamese. Use English only
-+ Do NOT use '.' in password
-+ Remember to activate your TestArchitect account by the link sent to your registered email address
+  + DO NOT input Vietnamese. Use English only
+  + Do NOT use '.' in password
+  + Remember to activate your TestArchitect account by the link sent to your registered email address
